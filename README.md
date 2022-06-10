@@ -17,7 +17,8 @@ however it's recommended to use rlwrap for gud repl experience
 
 - Syntax:
 ```haskell
-3 + 4 * 5
+3 + 4 * 5 / 6
 let x 34 in x + 35
 let x 34 in x + let y 35 in y
+let x 34 in let y 35 in x + y
 ```

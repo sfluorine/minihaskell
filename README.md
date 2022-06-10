@@ -4,6 +4,7 @@ ghc Minihs.hs Parser.hs -o minihs
 ```
 
 - Running
+
 if you have rlwrap installed then just invoke:
 ```bash
 ./minihs.sh
